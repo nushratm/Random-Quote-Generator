@@ -1,0 +1,66 @@
+
+.generate {
+    text-align:center;
+    position:relative;
+    padding: 15%;
+    height:20px;
+    margin:10px;
+    margin-top:20px;
+    margin-bottom:60px;
+    display:block;
+    background-color:pink;
+    color:black;
+
+
+        
+    
+    
+}
+body {
+	font-family: 'Bebas Neue', cursive;
+    background-color:black;
+        background-image: url('https://cdn140.picsart.com/312630984068201.jpg?type=webp&to=min&r=640');
+
+
+
+}
+h1 {
+	text-align: center;
+    color:black;
+    text-shadow: 2px 2px 5px lightblue;
+}
+button {
+	width:100px;
+	height:60px;
+    margin:-10px;
+    margin-bottom:80px;
+    padding:50px;
+    background-color:black;
+    border:none;
+    text-align:center;
+    font-family: 'Concert One', cursive;
+   
+} 
+
+
+.button {
+  padding: 15px 1px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: black;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 10px #999;
+}
+
+
+
+.button:active {
+  background-color: white;
+  box-shadow: 0 9px #666;
+  transform: translateY(20px);
+}
+
